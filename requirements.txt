@@ -1,0 +1,8 @@
+# Requires Python 3.11 or lower
+python-telegram-bot==13.7
+Pillow>=9.0.0
+python-dotenv>=0.19.0
+numpy>=1.21.0
+opencv-python>=4.8.0
+pytz>=2024.1
+APScheduler==3.6.3 
